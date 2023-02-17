@@ -1,7 +1,6 @@
 # Warehouse Project with OOP
 
-Let us assume that you work for a Nike warehouse. As store manager you are responsible for stock taking.
-Nike warehouses store the following information for each shoe item in a text file:
+A warehouse stores the following information for each shoe in its inventory in a text file:
 - Country
 - Code
 - Product
