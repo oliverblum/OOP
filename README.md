@@ -16,13 +16,13 @@ Users (i.e. store managers) can use the program to do the following:
 - show value for each item
 - show highest quantity item
 
-Installation:
+## Installation:
 Make sure you have the tabulate library installed by doing the following:
 - Type CMD in the search bar and open the Command Prompt application.
 - Type "pip install tabulate --user" and press Enter
 
 If installation does not work, follow steps in https://www.youtube.com/watch?v=I6-_W-SuSG4
 
-Usage:
+## Usage:
 
 ![image](https://user-images.githubusercontent.com/123483224/219681578-2b633131-4358-41cb-b3f8-75ef7854eae6.png)
